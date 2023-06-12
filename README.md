@@ -11,7 +11,7 @@ This Jupyter Notebook project presents a comprehensive analysis of data science 
 
 Key Features:
 
-* Data Collection and Exploration: Gathered a rich dataset of data science job postings and salary information from various sources, including job boards, industry reports, and surveys. Conducted exploratory data analysis (EDA) to understand the distribution, patterns, and relationships within the data.
+* Data Collection and Exploration: Data gathered from Kaggle of data science job postings and salary information from various sources, including job boards, industry reports, and surveys. Conducted exploratory data analysis (EDA) to understand the distribution, patterns, and relationships within the data.
 * Feature Engineering: Extracted meaningful features from the dataset, such as education level, years of experience, programming languages, industry, and location, to capture the factors that impact data science salaries.
 * Data Cleaning and Preprocessing: Performed data cleaning tasks, including handling missing values, outlier detection, and handling categorical variables through encoding or one-hot encoding.
 * Regression Modeling: Utilized various regression techniques, including linear regression, polynomial regression, and regularization methods (e.g., Lasso, Ridge), to develop predictive models for data science salaries. Employed feature selection methods to identify the most influential variables.
